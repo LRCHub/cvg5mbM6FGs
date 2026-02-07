@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヘイ・ナインティーン",
+  "base_artist": "Steely Dan",
+  "createdAt": "2026-02-07T18:43:19.907984Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hey Nineteen",
+      "artist": "Steely Dan",
+      "has_synced": false,
+      "path": "select/pl_01_Hey_Nineteen_Steely_Dan.txt"
+    }
+  ]
+}
